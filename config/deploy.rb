@@ -6,7 +6,7 @@ set :use_sudo, false
 set :user, "moggsterrthree"
 
 set :application, "rthree.moggster.com"
-set :repository,  "git@github.com:claco/rthree.moggster.com.git"
+set :repository,  "git@github.com:moggsterb/rthree.moggster.com.git"
 set :scm, :git
 set :branch, 'master'
 set :git_shallow_clone, 1
