@@ -83,5 +83,4 @@ PLATFORMS
 
 DEPENDENCIES
   capistrano
-  rack (= 1.2.1)
   rails (= 3.0.7)
